@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCXGSA-rEZi4xdEyStOzFhmeLEwTYgKa4s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1094014287321</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.collectionapp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>nnt-finance-d1773</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nnt-finance-d1773.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1094014287321:ios:c67fd1a861192a1bf56dc8</string>
+	<key>DATABASE_URL</key>
+	<string>https://nnt-finance-d1773-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
